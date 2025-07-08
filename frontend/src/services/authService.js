@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = 'http://localhost:5109/api/auth';
+const API_URL = 'https://keshavserver-amgph9axgubqebar.eastus2-01.azurewebsites.net/api/auth';
 
 
 const api = axios.create({
