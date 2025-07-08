@@ -1,5 +1,5 @@
 const config = {
-  apiBaseUrl: 'http://localhost:5109/api' 
+  apiBaseUrl: 'https://keshavserver-amgph9axgubqebar.eastus2-01.azurewebsites.net/api' 
 };
 
 export default config;
